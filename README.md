@@ -1,31 +1,14 @@
-# 🛒 E-Commerce Website
 
-Ye ek fully responsive e-commerce website hai jo HTML, CSS aur JavaScript se banayi gayi hai.
 
-## 🔧 Features
+(s1.jpg)
 
-- Add to Cart
-- Product Listing
-- Responsive Design
+(s2.jpg)
 
-## 📸 Output Screenshots
+(s3.jpg)
+(s4.jpg)
 
-### 🏠 Home Page
-![Home Page](s1.jpg)
+(s5.jpg)
 
-### 🛍️ Product Page
-![Product Page](s2.jpg)
-
-### 🛒 Cart Page
-![Cart Page](s3.jpg)
-
-### 🏠 Home Page
-![Home Page](s4.jpg)
-
-### 🛍️ Product Page
-![Product Page](s5.jpg)
-
-### 🛒 Cart Page
-![Cart Page](s6.jpg)
+(s6.jpg)
 
 
